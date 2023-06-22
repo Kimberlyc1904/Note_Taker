@@ -67,5 +67,5 @@ Erwin Jocosing Student. @ github.com/ej619
 W3 Schools https://www.w3schools.com/
 ChatGPT https://chat.openai.com/
 Nick TA
-youtube
+youtube.com
 ```
