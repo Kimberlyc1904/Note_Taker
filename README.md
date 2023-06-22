@@ -3,8 +3,8 @@ Note Taker
 
 ## Note Taker
 
-- My motivation in building a SVG Logo Maker is to get better at JavaScripting.
-- I built this SVG Logo Maker to allow someone to quickly create a logo using different shapes, text and colors.
+- My motivation in building a Note Taker is to get better at JavaScripting.
+- I built this Note Taker to allow someone to quickly create notes so they won't forget things.
 - I learned a little JavaScripting.
 
 ## User Story
@@ -57,8 +57,6 @@ Once deployed I tested that the app would open correctly in Heroku. Checked logs
 First error I was able to resolve by moving the package.json file to the root.
 Second error I had to change the PORT coding in the server.js file to allow the app to open correctly.
 ```
-
-![screenshot](images/ScreenShot.png)
 
 ## Credits
 
